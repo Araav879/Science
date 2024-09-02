@@ -1,0 +1,129 @@
+{
+  "questions": [
+    {
+      "question": "Which microorganism(s) among the following perform photosynthesis by utilizing light?",
+      "options": ["Algae", "Fungi", "Cyanobacteria", "More than one of the above"],
+      "answer": "More than one of the above",
+      "solution": "Both Algae and Cyanobacteria perform photosynthesis using light."
+    },
+    {
+      "question": "What is the approximate size of the bacterial cell?",
+      "options": ["1mm in diameter", "0.5 to 1.0 micrometer in diameter", "2mm in diameter", "2 micrometers in diameter"],
+      "answer": "0.5 to 1.0 micrometer in diameter",
+      "solution": "Bacterial cells typically range from 0.5 to 1.0 micrometers in diameter."
+    },
+    {
+      "question": "Microorganisms are used during which stage of the purification of the sewage water?",
+      "options": ["Primary treatment", "Secondary treatment", "None of the above", "Both (A) and (B)"],
+      "answer": "Secondary treatment",
+      "solution": "Microorganisms play a key role in the secondary treatment of sewage, where they help break down organic matter."
+    },
+    {
+      "question": "The maximum concentration of alcohol in beverages that are naturally fermented is:",
+      "options": ["5 - 10%", "10 - 15%", "20 - 25%", "45 - 50%"],
+      "answer": "10 - 15%",
+      "solution": "Naturally fermented beverages typically reach an alcohol concentration of 10 - 15% before fermentation stops."
+    },
+    {
+      "question": "Big holes in Swiss cheese are made by:",
+      "options": ["a machine", "a bacterium that produces methane gas", "a bacterium producing a large amount of carbon dioxide", "a fungus that releases a lot of gases during its metabolic activities"],
+      "answer": "a bacterium producing a large amount of carbon dioxide",
+      "solution": "Propionibacterium, a bacterium, produces carbon dioxide gas during fermentation, which forms the characteristic holes in Swiss cheese."
+    },
+    {
+      "question": "The vitamin whose content increases following the conversion of milk into curd by lactic acid bacteria is:",
+      "options": ["Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin E"],
+      "answer": "Vitamin B12",
+      "solution": "The fermentation process by lactic acid bacteria increases the vitamin B12 content in curd."
+    },
+    {
+      "question": "Which one of the following alcoholic drinks is produced without distillation?",
+      "options": ["Wine", "Whisky", "Rum", "Brandy"],
+      "answer": "Wine",
+      "solution": "Wine is produced by fermentation without the process of distillation."
+    },
+    {
+      "question": "Which one of the following is a bacterial disease?",
+      "options": ["Typhoid", "Malaria", "AIDS", "Dysentery"],
+      "answer": "Typhoid",
+      "solution": "Typhoid is caused by the bacterium Salmonella typhi."
+    },
+    {
+      "question": "Tiny black rounded structure found on spoiled bread pieces are:",
+      "options": ["Bacteria", "Fungi", "Virus", "Protozoa"],
+      "answer": "Fungi",
+      "solution": "The black rounded structures are sporangia of fungi, typically Rhizopus, commonly known as bread mold."
+    },
+    {
+      "question": "Which is/are not correct regarding microorganisms?",
+      "options": [
+        "Microorganisms can be seen by naked eyes.",
+        "Microorganisms are classified into four major groups.",
+        "Fungi are one type of microorganism.",
+        "The virus is a special type of microorganism compared to the other three types."
+      ],
+      "answer": "Only 1",
+      "solution": "Microorganisms are too small to be seen by the naked eye, and this statement is incorrect."
+    },
+    {
+      "question": "Antibiotics are generally produced from:",
+      "options": ["Bacteria and Protozoa", "Fungi and Bacteria", "Virus and bacteria", "Fungi"],
+      "answer": "Fungi and Bacteria",
+      "solution": "Antibiotics are commonly produced from fungi and bacteria."
+    },
+    {
+      "question": "A common preservative used in jam and pickles is:",
+      "options": ["Sodium benzoate", "Acetic acid", "Sodium Chloride", "More than one of the above"],
+      "answer": "More than one of the above",
+      "solution": "Both Sodium benzoate and Acetic acid are commonly used as preservatives in jams and pickles."
+    },
+    {
+      "question": "Pasteurised milk is heated to about what temperature for 15 to 30 seconds and then suddenly chilled and stored?",
+      "options": ["95° C", "100° C", "70° C", "78° C"],
+      "answer": "70° C",
+      "solution": "Pasteurization involves heating milk to around 70°C for 15 to 30 seconds before rapid cooling."
+    },
+    {
+      "question": "Which of the following present in the soil fix nitrogen from the atmosphere and convert it into compounds of nitrogen?",
+      "options": ["Fungi", "Bacteria", "Algae", "More than one of the above"],
+      "answer": "More than one of the above",
+      "solution": "Both bacteria (such as Rhizobium) and blue-green algae (cyanobacteria) fix nitrogen from the atmosphere."
+    },
+    {
+      "question": "Which of the following is not used as food preservatives?",
+      "options": ["Salt", "Sugar", "Vinegar", "Methane"],
+      "answer": "Methane",
+      "solution": "Methane is not used as a food preservative; salt, sugar, and vinegar are commonly used preservatives."
+    },
+    {
+      "question": "What helps in the rise of bread or dosa dough?",
+      "options": ["Heat", "Grinding", "Low pressure", "Growth of yeast cells"],
+      "answer": "Growth of yeast cells",
+      "solution": "The rise of dough is due to the carbon dioxide produced by the growth of yeast cells."
+    },
+    {
+      "question": "The status of algae in the aquatic food chain is:",
+      "options": ["consumers", "producers", "host", "small in size"],
+      "answer": "producers",
+      "solution": "Algae are producers in the aquatic food chain, as they produce food through photosynthesis."
+    },
+    {
+      "question": "Antibiotics are effective against:",
+      "options": ["bacteria", "algae", "viruses", "More than one of the above"],
+      "answer": "bacteria",
+      "solution": "Antibiotics are primarily effective against bacteria, not viruses or algae."
+    },
+    {
+      "question": "The algae commonly used as a fertilizer are:",
+      "options": ["Staphylococcus", "Diatoms", "Blue-green algae", "None of the above"],
+      "answer": "Blue-green algae",
+      "solution": "Blue-green algae (cyanobacteria) are commonly used as a bio-fertilizer due to their nitrogen-fixing capabilities."
+    },
+    {
+      "question": "A group of microorganisms that have the characters of both living and non-living are:",
+      "options": ["Bacteria", "Protozoa", "Virus", "Fungi"],
+      "answer": "Virus",
+      "solution": "Viruses exhibit characteristics of both living and non-living entities; they are inactive outside a host but can replicate inside one."
+    }
+  ]
+}
